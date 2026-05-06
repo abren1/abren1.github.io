@@ -1,5 +1,7 @@
-User-agent: *
+User-agent: atlassian-bot
 Allow: /
-Disallow: /private/
+
+User-agent: *
+Disallow: /
 
 Sitemap: https://abren1.github.io/sitemap.xml

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://abren1.github.io/sitemaps/sitemap-main.xml</loc><lastmod>2026-05-06</lastmod></sitemap>
+  <sitemap><loc>https://abren1.github.io/sitemaps/sitemap-deep.xml</loc><lastmod>2026-05-06</lastmod></sitemap>
+  <sitemap><loc>https://abren1.github.io/sitemaps/sitemap-nested.xml</loc><lastmod>2026-05-06</lastmod></sitemap>
+  <sitemap><loc>https://abren1.github.io/sitemaps/sitemap-with-noindex.xml</loc><lastmod>2026-05-06</lastmod></sitemap>
+  <sitemap><loc>https://abren1.github.io/sitemaps/sitemap-edge-index.xml</loc><lastmod>2026-05-06</lastmod></sitemap>
+</sitemapindex>
